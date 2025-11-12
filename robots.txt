@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: /ivoblog/ivoblog/sitemap.xml
+Sitemap: /ivoblog/sitemap.xml
